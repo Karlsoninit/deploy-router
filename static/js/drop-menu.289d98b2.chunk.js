@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{78:function(e,n,t){"use strict";t.r(n);var o=t(0),a=t.n(o),r={width:"400px",height:"300px",border:"1px solid green",margin:"auto"};n.default=function(e){var n=e.handleClose;return a.a.createElement("div",{style:r},a.a.createElement("button",{onClick:n},"close"))}}}]);
+//# sourceMappingURL=drop-menu.289d98b2.chunk.js.map
